@@ -8,7 +8,7 @@ Este projeto é um teste de automação com Python usando a biblioteca [PyAutoGU
 
 ## 📌 O que o script faz
 
-1. Abre o navegador (Chrome).
+1. Abre o navegador (Chrome ou qualquer outro).
 2. Acessa a página de login da [Hashtag Treinamentos (Intensivão)](https://dlp.hashtagtreinamentos.com/python/intensivao/login).
 3. Faz o login com e-mail e senha fictícios.
 4. Lê uma base de dados `produtos.csv`.
