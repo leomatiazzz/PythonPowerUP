@@ -1,0 +1,10 @@
+# CÓDIGO PARA VISUALIZAR AONDE A POSIÇÃO DO MOUSE ESTARÁ
+# RODE O CÓDIGO E COLOQUE O MOUSE NO CAMPO DE ESCRITA
+# APÓS O DELAY DE 5 SEGUNDOS, O TERMINAL VAI PRINTAR A POSIÇÃO A SER USADA
+
+import pyautogui
+import time
+
+time.sleep(5)
+
+print(pyautogui.position())
