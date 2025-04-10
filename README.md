@@ -31,7 +31,8 @@ pip install pyautogui pandas
 
 ```
 .
-├── cadastro.py         # Arquivo principal de automação
+├── main.py         # Arquivo principal de automação
+├── auxiliar.py     # Arquivo usado como teste para os métodos
 ├── produtos.csv        # Base de dados fictícia
 └── README.md
 ```
